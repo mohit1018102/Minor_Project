@@ -1,2 +1,2 @@
 # Gate Pass System
-This is a web based project which I made for Grafest 2018 Technical Event WEB-O-PEDIA. This project was developed for gate keepers to generate the entry passes for the visitors of university.
+Gate Pass System is a web based project which I made for Grafest 2018 Technical Event WEB-O-PEDIA.This project was developed for gate keepers to generate the entry passes for visitors of university.
