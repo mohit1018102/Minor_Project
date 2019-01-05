@@ -54,7 +54,7 @@ It is a web based project which I made for Grafest 2018 Technical Event WEB-O-PE
 
 <h1>Run Config</h1>
 
-[Click on the link](https://github.com/mohit1018102/Minor_Project/blob/master/Visitor's%20Pass%20Generation%20System/run)
+[Click on the link](https://github.com/mohit1018102/Minor_Project/blob/master/Visitor's%20Pass%20Generation%20System/run.md)
 
 
 
