@@ -3,13 +3,11 @@
 It is a web based project which I made for Grafest 2018 Technical Event WEB-O-PEDIA.This project was developed for gate keepers to generate the entry passes for visitors of university.
 
 
-<h2>LOGIN</h2>
+<h1>LOGIN</h1>
 
 **username-Admin1**<br>
-**password-admin@123**
-
-<br>-------------------------------------<br>
-
+**password-admin@123**<br>
+-------------------------------------<br>
 **username-Admin2** <br>
 **password-admin@2**
 <br>-------------------------------------
@@ -17,7 +15,7 @@ It is a web based project which I made for Grafest 2018 Technical Event WEB-O-PE
 ![](screenshot/1.png)
 
 <br>
-<h2>Registration</h2>
+<h1>Registration</h1>
 <ul>
   <li>Enter the valid details and upload the photo in order to activate the pass generation link.</li>
  </ul>
@@ -36,7 +34,7 @@ It is a web based project which I made for Grafest 2018 Technical Event WEB-O-PE
 
 ![](screenshot/4.png)
 
-<h2>Visitor's Pass </h2>
+<h1>Visitor's Pass </h1>
 
 <ul>
   <li>This is the vistor's pass of Bulma who wants to visit GEU University </li>
@@ -44,6 +42,16 @@ It is a web based project which I made for Grafest 2018 Technical Event WEB-O-PE
 
 
 ![](screenshot/5.png)
+
+
+<h1>Enteries</h1>
+
+<ul>
+  <li>Gate keepers can check the detail of visitors using this module</li>
+</ul>
+
+![](screenshot/6.png)
+
 
 
 
