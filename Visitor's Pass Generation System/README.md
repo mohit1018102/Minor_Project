@@ -5,10 +5,10 @@ It is a web based project which I made for Grafest 2018 Technical Event WEB-O-PE
 
 <h2>LOGIN</h2>
 
-**username-Admin1** 
-**password-admin@123**
+**username-Admin1** <br>
+**password-admin@123**<br>
 
-**username-Admin2** 
+**username-Admin2** <br>
 **password-admin@2**
 
 ![](screenshot/1.jpg)
