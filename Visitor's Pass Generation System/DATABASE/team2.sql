@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1:3306
--- Generation Time: Dec 22, 2018 at 04:21 PM
+-- Generation Time: Jan 05, 2019 at 09:35 AM
 -- Server version: 5.7.19
 -- PHP Version: 5.6.31
 
@@ -73,7 +73,8 @@ INSERT INTO `visitor` (`name`, `number`, `city`, `address`, `date`, `file`, `gid
 ('Rahul Singh', '1111111111', 'Patna', 'Srikrishana Nagar', '2018-12-22 16:07:58', 'face2.jpg', '101'),
 ('Shriya Agarwal', '7777777777', 'Dehradun', 'Clock Tower', '2018-12-22 16:09:22', 'face3.jpg', '101'),
 ('Priya', '666666666', 'Dehradun', 'Garhi Cantt', '2018-12-22 16:10:56', 'face4.jpg', '101'),
-('Rajesh', '9999999999', 'Dehradun', 'sailok near ITBP CAMP', '2018-12-22 16:16:15', 'face5.jpg', '101');
+('Rajesh', '9999999999', 'Dehradun', 'sailok near ITBP CAMP', '2018-12-22 16:16:15', 'face5.jpg', '101'),
+('Bulma', '8978906789', 'Lucknow', 'shariman nagar ', '2019-01-05 08:48:08', 'girl-swear-icon.jpg', '101');
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
