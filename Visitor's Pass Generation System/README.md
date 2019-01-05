@@ -4,12 +4,13 @@ It is a web based project which I made for Grafest 2018 Technical Event WEB-O-PE
 
 
 <h2>LOGIN</h2>
-<h3>Login username and password :</h3>
-**username-Admin1** <br>
-**password-admin@123**<br>
+**username-Admin1**<br>
+**password-admin@123**
+<br>-------------------------------------<br>
 
 **username-Admin2** <br>
 **password-admin@2**
+<br>-------------------------------------
 
 ![](screenshot/1.png)
 
