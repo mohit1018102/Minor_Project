@@ -37,7 +37,7 @@ It is a web based project which I made for Grafest 2018 Technical Event WEB-O-PE
 <h1>Visitor's Pass </h1>
 
 <ul>
-  <li>This is the vistor's pass of Bulma who wants to visit GEU University </li>
+  <li>This is the Bulma's pass who wants to visit GEU University </li>
 </ul>
 
 
@@ -47,12 +47,14 @@ It is a web based project which I made for Grafest 2018 Technical Event WEB-O-PE
 <h1>Enteries</h1>
 
 <ul>
-  <li>Gate keepers can check the detail of visitors using this module</li>
+  <li>Gate keepers can check the details of visitor using this module</li>
 </ul>
 
 ![](screenshot/6.png)
 
+<h1>Run Config</h1>
 
+[Click on the link](run.md)
 
 
 
